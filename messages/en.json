@@ -1,0 +1,117 @@
+{
+  "header": {
+    "learnMore": "Learn more",
+    "joinWaitlistButton": "Join Waitlist"
+  },
+  "Footer": {
+    "copyright": "© Tandrum.com - All rights reserved.",
+    "product": {
+      "title": "Product",
+      "features": "Features",
+      "integrations": "Integrations",
+      "pricing": "Pricing & Plans",
+      "changelog": "Changelog",
+      "method": "Our method"
+    },
+    "company": {
+      "title": "Company",
+      "about": "About us",
+      "diversity": "Diversity & Inclusion",
+      "blog": "Blog",
+      "careers": "Careers",
+      "financials": "Financial statements"
+    },
+    "resources": {
+      "title": "Resources",
+      "community": "Community",
+      "terms": "Terms of service",
+      "report": "Report a vulnerability"
+    },
+    "social": {
+      "title": "Social",
+      "twitter": "Twitter",
+      "medium": "Medium",
+      "github": "Github"
+    }
+  },
+  "ctaSection": {
+    "title": "Build up your next habit with your friend"
+  },
+  "featuresPlanet": {
+    "sectionTitle": "Why build habits alone — when you could grow together?",
+    "duoHabits": {
+      "title": "Duo Habits",
+      "description": "Build habits as a team Start daily or weekly rituals you both want to commit to — like journaling, evening reflection, or a morning check-in."
+    },
+    "trustTree": {
+      "title": "The Trust Tree",
+      "description": "Watch your progress come to life Each completed habit grows your shared tree with new leaves, fruit, and deeper roots."
+    },
+    "sharedSkillGrowth": {
+      "title": "Shared Skill Growth",
+      "description": "Develop your inner strengths Each habit strengthens a key skill — like clarity, empathy, or discipline — visualized in a shared skill radar."
+    },
+    "streaksMeaningful": {
+      "title": "Streaks That Mean Something",
+      "description": "Stay consistent, together Your streaks aren’t just numbers — they reflect your ability to show up for each other, every single day."
+    },
+    "gentleCheckins": {
+      "title": "Gentle Check-ins",
+      "description": "A mindful approach to motivation Receive gentle prompts and send each other emoji or text-based reflections to stay emotionally in sync."
+    },
+    "realConnection": {
+      "title": "Designed for Real Connection",
+      "description": "Built for duos who care Whether you're friends, partners, siblings or accountability buddies — Tandrum is for two people who want to grow together."
+    }
+  },
+  "hero": {
+    "heading": "Growth begins",
+    "heading2": "together",
+    "description": "Tandrum helps you build up habits as a duo and stay connected, accountable, and growing — one day and one leaf at a time.",
+    "joinWaitlist": "Join Waitlist",
+    "learnMore": "Learn More"
+  },
+  "largeTestimonial": {
+    "altText": "User profile picture",
+    "quote1": "“Since we started using Tandrum, we actually look forward to our daily check-in. It’s the first habit that",
+    "quote2": "feels like ours",
+    "names": "Maya & Lio",
+    "role": "Beta Testers"
+  },
+  "waitlistPage": {
+    "description": "Tandrum is launching soon — a habit-building app for two people. Join early to be among the first to grow together.",
+    "emailPlaceholder": "Enter your email",
+    "joinButton": "Join Waitlist",
+    "noSpam": "You’ll only get emails related to early access. No spam, ever.",
+    "successMessage": "Success! You are now on the waitlist.",
+    "errorMessage": "Error! Please try again later.",
+    "invalidEmail": "Please enter a valid email address.",
+    "alreadyJoinedWaitlist": "You’re already on the waitlist.",
+    "tooManyRequestsMessage": "Too many requests. Please try again in a few minutes.",
+    "loading": "Loading...",
+    "registrationError": "Registration error. Please try again."
+  },
+  "learnMorePage": {
+    "title": "What is Tandrum?",
+    "description": "Tandrum helps two people grow meaningful habits together. Strengthen trust, build momentum, and watch your shared progress come to life.",
+    "feature1": {
+      "title": "Build Habits as a Duo",
+      "description": "Start shared rituals like meditation, journaling or movement. Tandrum helps you stay consistent — together."
+    },
+    "feature2": {
+      "title": "See Your Growth",
+      "description": "Your shared progress is reflected in a growing pattern — visual, organic, and rewarding. Every streak counts."
+    },
+    "feature3": {
+      "title": "Strengthen Core Skills",
+      "description": " Each habit supports key values like clarity, empathy, or discipline. See your duo evolve through meaningful practice."
+    },
+    "feature4": {
+      "description": "Tandrum is built for connection. Whether you're friends, partners, or accountability buddies — your habits grow stronger when you grow together."
+    },
+    "cta": {
+      "title": "Ready to start growing together?",
+      "joinWaitlistButton": "Join the Waitlist"
+    }
+  }
+}

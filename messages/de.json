@@ -1,0 +1,117 @@
+{
+  "Footer": {
+    "company": {
+      "about": "Über uns",
+      "careers": "Karriere",
+      "diversity": "Vielfalt & Inklusion",
+      "financials": "Finanzberichte",
+      "title": "Unternehmen",
+      "blog": "Blog"
+    },
+    "copyright": "© Tandrum.com - Alle Rechte vorbehalten.",
+    "product": {
+      "changelog": "Änderungsprotokoll",
+      "features": "Funktionen",
+      "integrations": "Integrationen",
+      "method": "Unsere Methode",
+      "pricing": "Preise & Pläne",
+      "title": "Produkt"
+    },
+    "resources": {
+      "community": "Gemeinschaft",
+      "report": "Melde eine Sicherheitslücke",
+      "terms": "Nutzungsbedingungen",
+      "title": "Ressourcen"
+    },
+    "social": {
+      "github": "Github",
+      "medium": "Medium",
+      "title": "Soziale Netzwerke",
+      "twitter": "Twitter"
+    }
+  },
+  "ctaSection": {
+    "title": "Baue deine nächste Gewohnheit mit deinem Freund auf!"
+  },
+  "featuresPlanet": {
+    "duoHabits": {
+      "description": "Baue Gewohnheiten als Team auf. Beginne tägliche oder wöchentliche Rituale, zu denen ihr euch beide verpflichten wollt – wie Journaling, abendliche Reflexion oder ein morgendlicher Check-in.",
+      "title": "Duo-Gewohnheiten"
+    },
+    "gentleCheckins": {
+      "description": "Eine achtsame Herangehensweise an Motivation. Erhalte sanfte Aufforderungen und schickt euch gegenseitig Emojis oder textbasierte Reflexionen, um emotional in Einklang zu bleiben.",
+      "title": "Sanfte Check-ins"
+    },
+    "realConnection": {
+      "description": "Für Paare, die es ernst meinen. Ob Freunde, Partner, Geschwister oder Verantwortlichkeitspartner – Tandrum ist für zwei Menschen, die gemeinsam wachsen wollen.",
+      "title": "Für echte Verbindungen entwickelt"
+    },
+    "sectionTitle": "Warum Gewohnheiten alleine aufbauen, wenn ihr zusammen wachsen könnt?",
+    "sharedSkillGrowth": {
+      "description": "Entwickle deine inneren Stärken. Jede Gewohnheit stärkt eine wichtige Fähigkeit – wie Klarheit, Empathie oder Disziplin – die in einem gemeinsamen Fähigkeitsradar visualisiert wird.",
+      "title": "Gemeinsames Wachstum von Fähigkeiten"
+    },
+    "streaksMeaningful": {
+      "description": "Bleibt gemeinsam konstant. Eure Streaks sind nicht nur Zahlen – sie spiegeln wider, wie gut ihr füreinander da seid, jeden einzelnen Tag.",
+      "title": "Bedeutungsvolle Streaks"
+    },
+    "trustTree": {
+      "description": "Sieh, wie dein Fortschritt zum Leben erwacht. Jede abgeschlossene Gewohnheit lässt deinen gemeinsamen Baum mit neuen Blättern, Früchten und tieferen Wurzeln wachsen.",
+      "title": "Der Vertrauenbaum"
+    }
+  },
+  "header": {
+    "joinWaitlistButton": "Warteliste beitreten",
+    "learnMore": "Erfahre mehr"
+  },
+  "hero": {
+    "description": "Tandrum hilft dir, Gewohnheiten als Duo aufzubauen und verbunden, verantwortungsbewusst und wachsend zu bleiben – Tag für Tag und Blatt für Blatt.",
+    "heading": "Wachstum beginnt",
+    "heading2": "gemeinsam",
+    "joinWaitlist": "Warteliste beitreten",
+    "learnMore": "Erfahre mehr"
+  },
+  "largeTestimonial": {
+    "altText": "Großes Testimonial",
+    "names": "Maya & Lio",
+    "quote1": "„Seitdem wir Tandrum nutzen, freuen wir uns tatsächlich auf unseren täglichen Check-in. Es ist die erste Gewohnheit, die",
+    "quote2": "sich wie unsere anfühlt",
+    "role": "Beta-Tester"
+  },
+  "learnMorePage": {
+    "cta": {
+      "joinWaitlistButton": "Warteliste beitreten",
+      "title": "Bereit, gemeinsam zu wachsen?"
+    },
+    "description": "Tandrum hilft zwei Personen, gemeinsam bedeutungsvolle Gewohnheiten aufzubauen. Stärkt das Vertrauen, baut Momentum auf und beobachtet, wie euer gemeinsamer Fortschritt lebendig wird.",
+    "feature1": {
+      "description": "Beginnt gemeinsame Rituale wie Meditation, Journaling oder Bewegung. Tandrum hilft euch, konstant zu bleiben – gemeinsam.",
+      "title": "Gewohnheiten als Duo aufbauen"
+    },
+    "feature2": {
+      "description": "Euer gemeinsamer Fortschritt wird in einem wachsenden Muster reflektiert – visuell, organisch und belohnend. Jede Streak zählt.",
+      "title": "Seht euren Fortschritt"
+    },
+    "feature3": {
+      "description": "Jede Gewohnheit unterstützt wichtige Werte wie Klarheit, Empathie oder Disziplin. Sieh zu, wie sich dein Duo durch sinnvolles Üben entwickelt.",
+      "title": "Stärke grundlegende Fähigkeiten"
+    },
+    "feature4": {
+      "description": "Tandrum wurde für Verbindung entwickelt. Ob Freunde, Partner oder Verantwortlichkeitspartner – eure Gewohnheiten werden stärker, wenn ihr gemeinsam wächst."
+    },
+    "title": "Was ist Tandrum?"
+  },
+  "waitlistPage": {
+    "description": "Tandrum wird bald gestartet – eine Gewohnheitsaufbau-App für zwei Personen. Melde dich früh an, um zu den Ersten zu gehören, die gemeinsam wachsen.",
+    "emailPlaceholder": "Gib deine E-Mail-Adresse ein",
+    "errorMessage": "Etwas ist schiefgelaufen. Bitte versuche es später noch einmal.",
+    "joinButton": "Warteliste beitreten",
+    "noSpam": "Du erhältst nur E-Mails zum frühen Zugang. Kein Spam, versprochen.",
+    "successMessage": "Erfolg! Du bist jetzt auf der Warteliste.",
+    "invalidEmail": "Bitte gib eine gültige E-Mail-Adresse ein.",
+    "alreadyJoinedWaitlist": "Du bist bereits auf der Warteliste.",
+    "tooManyRequestsMessage": "Zu viele Anfragen. Bitte versuche es in ein paar Minuten erneut.",
+    "loading": "Lädt...",
+    "registrationError": "Registrierungsfehler. Bitte versuche es erneut."
+  }
+}
