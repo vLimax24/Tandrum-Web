@@ -1,6 +1,7 @@
 export const metadata = {
-  title: "Home - Simple",
-  description: "Page description",
+  title: "Tandrum",
+  description:
+    "Tandrum helps you build up habits as a duo and stay connected, accountable, and growing — one day and one leaf at a time.",
 };
 
 import Hero from "@/components/hero-home";
